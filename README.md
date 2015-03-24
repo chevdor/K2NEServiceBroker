@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/k2ne/k2neservicebroker.png?label=ready&title=Ready)](https://waffle.io/k2ne/k2neservicebroker)
+[![Build Status](https://travis-ci.org/chevdor/K2NEServiceBroker.svg?branch=ci)](https://travis-ci.org/chevdor/K2NEServiceBroker)
 
 # K2NE ServiceBroker
 
