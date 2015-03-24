@@ -1,0 +1,7 @@
+language: csharp
+solution: K2Field.K2NE.sln
+script:    # the following commands are just examples, use whatever your build process requires
+  - xbuild /p:Configuration=Release K2Field.K2NE.sln
+mono:
+  - latest
+  - 3.12.0
