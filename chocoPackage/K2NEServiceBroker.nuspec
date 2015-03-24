@@ -2,11 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>K2NEServiceBroker</id>
-        <version>0.0.1.0</version>
+        <version>0.0.1.1</version>
         <title>K2NEServiceBroker</title>
-        <authors>Ruben d´Arco Czubayko</authors>
+        <authors>Ruben d´Arco</authors>
         <owners>Wilfried Kopp</owners>
         <projectUrl>https://github.com/K2NE/K2NEServiceBroker</projectUrl>
+        <iconUrl>http://community.k2.com/html/assets/search-market.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>K2NEServiceBroker</description>
         <summary>K2NEServiceBroker</summary>
