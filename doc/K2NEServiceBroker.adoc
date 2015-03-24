@@ -1,0 +1,10 @@
+= K2NEServiceBroker
+v0.0.1.1
+
+The project page of this broker is located at https://github.com/K2NE/K2NEServiceBroker. Issues and feature requests can be done at https://github.com/K2NE/K2NEServiceBroker/issues.
+
+The K2NEServiceBroker offers the methods described below.
+
+include::client-api.adoc[]
+
+include::management-api.adoc[]
