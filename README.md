@@ -20,7 +20,11 @@ NOTE: The package is currently not hosted online but it will build automatically
 
 #### Worklist
 
-* Get Worklist
+* Get Worklist: retrieves the worklist of the current user
+
+#### Worklist item
+
+*  Release Worklist Item: release a worklist item using its S/N
 
 ### Management API
 
