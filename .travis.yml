@@ -5,3 +5,4 @@ script:    # the following commands are just examples, use whatever your build p
 mono:
   - latest
   - 3.12.0
+  
